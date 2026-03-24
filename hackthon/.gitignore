@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+.venv/
+*.py[cod]
+*$py.class
+backend_log*.txt
+fix*.py
+clean*.py
+rectify_all.py
+frontend_log.txt
+
+# Node
+node_modules/
+dist/
+build/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+JanRakshak_AI_Hackathon_v2.pptx
